@@ -16,7 +16,8 @@ Tecnologias de Front-End com Html, CSS e JavaScript
 
 # Semana Dev  - Criação de Site .
 
-Instrutores:
+Desenvolvido por : Carlos
+semana de treinamento  com instrutores  Dev em Dobro
 - 
 <hr>
 
