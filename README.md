@@ -1,4 +1,8 @@
-# Página: Super Mário Bros
+# Página: Super Mário Bros.
+
+
+Realizei  este projeto foi uma experiência divertida! Além de estar relacionado com 
+O  Mario Bros  (personagem no  qual sou fã!),usando e  utilizar o HTML, CSS e Java Script.
 
 Este projeto teve como objetivo realizar um site mencionando o Trailer do filme "Super Mario Bros". 
 
@@ -10,11 +14,10 @@ Tecnologias de Front-End com Html, CSS e JavaScript
 
 <hr>
 
-# Semana Dev Em Dobro - Criação de Site 
+# Semana Dev  - Criação de Site .
 
 Instrutores:
-- [Dev em Dobro](https://www.youtube.com/c/devemdobro)
-
+- 
 <hr>
 
 * [Html: A Base do FrontEnd](https://github.com/Carlostec1sys/SuperMarioBros_DevEmDobro#html-a-base-do-frontend)
